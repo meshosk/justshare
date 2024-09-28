@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!DOCTYPE svg PUBLIC "-//W3C//DTD SVG 1.1//EN" "http://www.w3.org/Graphics/SVG/1.1/DTD/svg11.dtd">
+<svg width="100%" height="100%" viewBox="0 0 50 41" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" xml:space="preserve" xmlns:serif="http://www.serif.com/" style="fill-rule:evenodd;clip-rule:evenodd;stroke-linejoin:round;stroke-miterlimit:2;">
+    <g id="Artboard1" transform="matrix(0.916763,0,0,0.830313,0.866153,0.0128625)">
+        <rect x="0.146" y="-0.015" width="44.635" height="48.614" style="fill:none;"/>
+        <g transform="matrix(1.52932,8.98766e-16,2.30871e-16,1.17499,0.456301,0.197905)">
+            <g>
+                <rect x="0" y="0" width="3" height="41" style="fill:white;"/>
+            </g>
+        </g>
+        <g id="Layer_2" transform="matrix(1.12756,-3.04925e-16,2.67167e-16,1.20436,10.5116,0.861024)">
+            <g transform="matrix(-3.34463,-4.09599e-16,7.04324e-16,-5.75124,42.3817,-0.0121348)">
+                <text x="0px" y="0px" style="font-family:'LucidaGrande', 'Lucida Grande', sans-serif;font-weight:500;font-size:12px;fill:white;">&gt;</text>
+            </g>
+            <g transform="matrix(-3.34463,-4.09599e-16,7.04324e-16,-5.75124,26.0659,-0.0121348)">
+                <text x="0px" y="0px" style="font-family:'LucidaGrande', 'Lucida Grande', sans-serif;font-weight:500;font-size:12px;fill:white;">&gt;</text>
+            </g>
+        </g>
+    </g>
+</svg>
